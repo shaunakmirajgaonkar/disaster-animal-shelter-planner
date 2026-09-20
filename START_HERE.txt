@@ -1,0 +1,7 @@
+DISASTER ANIMAL SHELTER PLANNER
+
+1. Create .venv
+2. pip install -r requirements.txt
+3. python -m pytest tests/ -q
+4. streamlit run app.py
+5. Upload data/sample_disaster_animal_shelter.csv or use the bundled sample.

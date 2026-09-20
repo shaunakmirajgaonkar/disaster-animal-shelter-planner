@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
+<rect width="900" height="260" rx="28" fill="#fdf7ee"/>
+<path d="M70 185 C190 40, 330 230, 470 80 S710 45, 830 155" fill="none" stroke="#f2b84b" stroke-width="18" stroke-linecap="round"/>
+<circle cx="95" cy="170" r="24" fill="#ffffff" stroke="#d48b1f" stroke-width="8"/>
+<circle cx="805" cy="148" r="24" fill="#ffffff" stroke="#2f855a" stroke-width="8"/>
+<path d="M92 170l12 0M795 148l12 0" stroke="#475467" stroke-width="5" stroke-linecap="round"/>
+<text x="130" y="72" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#17324d">EVACUATION &amp; TRANSPORT READINESS</text>
+<text x="130" y="108" font-family="Arial,sans-serif" font-size="20" fill="#667085">Travel pressure, transport capacity and intake planning</text>
+</svg>

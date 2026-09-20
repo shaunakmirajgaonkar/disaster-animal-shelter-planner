@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
+<rect width="900" height="260" rx="28" fill="#eef8f4"/>
+<circle cx="130" cy="130" r="74" fill="#ffffff" stroke="#66bfa3" stroke-width="8"/>
+<path d="M95 152c8-45 63-45 70 0" fill="none" stroke="#2f855a" stroke-width="16" stroke-linecap="round"/>
+<circle cx="115" cy="112" r="8" fill="#2f855a"/><circle cx="145" cy="112" r="8" fill="#2f855a"/>
+<path d="M118 137c8 7 24 7 32 0" fill="none" stroke="#2f855a" stroke-width="7" stroke-linecap="round"/>
+<path d="M250 80h410l70 50-70 50H250z" fill="#ffffff" stroke="#8bb7e8" stroke-width="6"/>
+<text x="285" y="125" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#17324d">TEMPORARY SHELTER CAPACITY</text>
+<text x="285" y="162" font-family="Arial,sans-serif" font-size="20" fill="#667085">Local planning dashboard • pets • livestock • transport</text>
+</svg>

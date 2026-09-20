@@ -1,0 +1,31 @@
+record_id,zone,site_name,animal_type,animal_count,evacuation_priority,transport_capacity,travel_minutes,facility_capacity,current_booked,water_capacity_l_day,feed_capacity_kg_day,backup_power_hours,handling_staff,crate_pen_availability,veterinary_support,livestock_support,last_inspection_days
+A001,Zone North,Greenfield Community Hall,Dogs,48,High,40,22,80,52,520,82,18,9,70,2,0,35
+A002,Zone North,Greenfield Community Hall,Cats,22,Elevated,25,22,80,52,240,36,18,9,70,2,0,35
+A003,Zone North,Riverside Expo Barn,Cattle,36,Critical,24,31,55,42,900,220,24,11,48,1,2,72
+A004,Zone North,Riverside Expo Barn,Goats,29,High,20,31,55,42,580,118,24,11,48,1,2,72
+A005,Zone East,Lakeside School, Dogs,34,High,30,18,65,39,390,58,10,8,55,2,0,21
+A006,Zone East,Lakeside School,Cats,17,Elevated,20,18,65,39,170,29,10,8,55,2,0,21
+A007,Zone East,Industrial Shelter Yard,Cattle,42,Critical,35,44,50,41,720,190,12,7,36,1,2,140
+A008,Zone East,Industrial Shelter Yard,Goats,31,High,26,44,50,41,520,126,12,7,36,1,2,140
+A009,Zone South,Municipal Sports Complex,Dogs,55,Critical,38,26,95,65,700,110,14,12,90,2,0,48
+A010,Zone South,Municipal Sports Complex,Cats,28,High,30,26,95,65,310,48,14,12,90,2,0,48
+A011,Zone South,Old Market Shed,Poultry,120,High,80,37,150,112,1000,290,8,10,100,0,1,95
+A012,Zone South,Old Market Shed,Goats,38,High,26,37,150,112,620,145,8,10,100,0,1,95
+A013,Zone West,Hillview School,Dogs,27,Elevated,26,16,60,28,360,54,16,6,58,2,0,18
+A014,Zone West,Hillview School,Cats,13,Routine,16,16,60,28,150,23,16,6,58,2,0,18
+A015,Zone West,Farm Transit Yard,Cattle,58,Critical,42,52,70,55,960,270,6,8,44,1,2,165
+A016,Zone West,Farm Transit Yard,Goats,46,Critical,35,52,70,55,740,180,6,8,44,1,2,165
+A017,Zone Central,City Relief Center,Dogs,61,High,58,14,100,70,860,128,22,14,96,2,0,25
+A018,Zone Central,City Relief Center,Cats,33,High,36,14,100,70,330,55,22,14,96,2,0,25
+A019,Zone Central,Community Stadium,Cattle,44,Critical,30,29,80,60,780,200,20,10,62,1,2,54
+A020,Zone Central,Community Stadium,Sheep,39,High,28,29,80,60,650,162,20,10,62,1,2,54
+A021,Zone North,Temple Grounds,Goats,24,Elevated,18,34,40,27,420,105,9,5,30,0,1,82
+A022,Zone North,Temple Grounds,Dogs,19,High,18,34,40,27,220,33,9,5,30,0,1,82
+A023,Zone East,Warehouse Shelter,Cattle,32,High,28,39,48,36,550,145,7,6,34,1,2,130
+A024,Zone East,Warehouse Shelter,Sheep,26,High,24,39,48,36,440,108,7,6,34,1,2,130
+A025,Zone South,Bus Depot Yard,Dogs,46,Critical,31,47,55,46,500,72,5,7,40,1,0,110
+A026,Zone South,Bus Depot Yard,Cats,21,High,20,47,55,46,210,35,5,7,40,1,0,110
+A027,Zone West,Grain Co-op,Goats,41,High,30,42,65,48,690,165,15,9,52,1,2,66
+A028,Zone West,Grain Co-op,Sheep,34,Elevated,27,42,65,48,560,140,15,9,52,1,2,66
+A029,Zone Central,University Indoor Hall,Dogs,39,Elevated,42,12,70,43,610,90,20,11,72,2,0,16
+A030,Zone Central,University Indoor Hall,Cats,18,Routine,22,12,70,43,190,31,20,11,72,2,0,16
